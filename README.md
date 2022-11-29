@@ -1,1 +1,1 @@
-# Method security. OAuth2
+# Method security
